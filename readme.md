@@ -17,6 +17,11 @@ This project was developed in 2021, during the global COVID-19 pandemic, with th
 - Resistor 220 Ω
 - Protoboard
 
+## Simulation
+
+May you need a simulation :
+- [Tinkercad](https://www.tinkercad.com/embed/aUsyVz6deSs?editbtn=1)
+
 ## Disclaimer
 
 - The higher the value of the resistor connected to the Anode Pin of the LED, the dimmer the brightness will be. Conversely, the lower the value of the resistor, the brighter the LED will light up. However, if the value of the resistor is too low or even without a resistor, the LCD may experience excessive heat and burn out.
